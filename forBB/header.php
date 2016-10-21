@@ -1,5 +1,5 @@
 <?php
-header("Content-Type: text/html;charset=windows-1251");
+header("Content-Type: text/html;charset=utf-8");
 include("../pdoConn.class.php");
 function __autoload($name)
 {
